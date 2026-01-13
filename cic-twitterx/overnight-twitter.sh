@@ -2,6 +2,7 @@
 
 # Overnight Twitter engagement automation
 # Uses Claude Code with Claude in Chrome browser automation tools
+# Not yet working as intended - needs more work - claude blocks this
 
 cd /Users/paulhayes/repositories/reel
 
