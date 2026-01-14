@@ -10,3 +10,4 @@
 - SaaSHub (https://saashub.com/services/submit) - Login NOT required. Direct submission form with Website URL field. Submissions go through an approval process.
 - Tiny Startups (https://tinystartups.com) - Login NOT required. Uses external Tally form for submissions. Direct form with fields for Startup Name, URL, description, etc.
 - ToolScout (https://toolscout.ai/submit) - Login REQUIRED. Prompts Google sign-in before allowing tool submission. Form fields include Tool Name, Tool URL, and Description.
+- MicroLaunch (https://microlaunch.net) - Login REQUIRED. Clicking "+ New Launch" shows Pro Launch (paid) and Basic Launch (free, currently at full capacity) options. Must sign up to proceed with submission.
