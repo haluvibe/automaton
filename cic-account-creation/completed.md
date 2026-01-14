@@ -1,0 +1,12 @@
+# Completed
+- FiveTaco (https://fivetaco.com/submit) - Login NOT required. Direct submission form with URL field.
+- Uneed (https://uneed.best/submit-a-tool) - Login REQUIRED. Must create account or log in to submit a product.
+- BetaList (https://betalist.com/submit) - Login NOT required. Direct submission form that auto-extracts product info from URL.
+- Dev Hunt (https://devhunt.org) - Login REQUIRED. Must log in (supports GitHub OAuth) to submit a dev tool via account dashboard.
+- SoftwareWorld (https://softwareworld.co) - Login REQUIRED. Must register with Full Name, Business Email, and Password to list software/services.
+- Alternative.me (https://alternative.me/how-to/submit-software/) - Login REQUIRED. Must create account and submit via account dashboard.
+- Dang AI Tools (https://dang.ai/submit) - Login NOT required. Direct submission form. Free option requires adding a backlink to Dang.ai on your site. Paid option ($29) for expedited listing.
+- Future Tools (https://www.futuretools.io/submit-a-tool) - Login NOT required. Direct submission form with fields for name, email, tool name, URL, tags, pricing model, and description.
+- SaaSHub (https://saashub.com/services/submit) - Login NOT required. Direct submission form with Website URL field. Submissions go through an approval process.
+- Tiny Startups (https://tinystartups.com) - Login NOT required. Uses external Tally form for submissions. Direct form with fields for Startup Name, URL, description, etc.
+- ToolScout (https://toolscout.ai/submit) - Login REQUIRED. Prompts Google sign-in before allowing tool submission. Form fields include Tool Name, Tool URL, and Description.
