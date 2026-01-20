@@ -1,0 +1,259 @@
+{
+  "sourcePost": "https://x.com/MS_BASE44/status/2011484472328290692",
+  "enrichedAt": "2026-01-16T03:45:00Z",
+  "usersChecked": 212,
+  "usersWithDMs": 25,
+  "note": "Checked all 212 users. Most accounts from index 130+ don't exist or have DMs restricted.",
+  "users": [
+    {
+      "username": "@steve_cook",
+      "displayName": "Steve",
+      "replyText": "how long did it take from ideation to when you thought you've built something amazing",
+      "profileUrl": "https://x.com/steve_cook",
+      "chatUrl": "https://x.com/i/chat/1940972475443273728-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "thinker, builder, life enjoyer. ruthless in my pursuits. building @Whop apps. dream bigger",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@tamecalm",
+      "displayName": "John",
+      "replyText": "how do you handle maintenance and support as a solopreneur when you're also building new features?",
+      "profileUrl": "https://x.com/tamecalm",
+      "chatUrl": "https://x.com/i/chat/718422810587226112-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "software engineer. building & shipping. knobhead.dev",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@LaurenLadd9",
+      "displayName": "Lauren Ladd",
+      "replyText": "How did you get the first 100 people?",
+      "profileUrl": "https://x.com/LaurenLadd9",
+      "chatUrl": "https://x.com/i/chat/1613168103839391744-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "@shareback_hq custom AI that builds itself",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@gustrigos",
+      "displayName": "Gus Trigos",
+      "replyText": "How did you manage the content / distribution machine + building?",
+      "profileUrl": "https://x.com/gustrigos",
+      "chatUrl": "https://x.com/i/chat/753270630431068161-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Agents | AI | Mentum (YC S21)",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@nichochar",
+      "displayName": "Nicholas Charriere",
+      "replyText": "What's the current monthly marketing budget for base44?",
+      "profileUrl": "https://x.com/nichochar",
+      "chatUrl": "https://x.com/i/chat/234698931-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "ceo @get_mocha (YC S23). ex @cruise @pinterest. i like building things that empower other people to build things",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@manuelbarba_",
+      "displayName": "BARBA",
+      "replyText": "what are the 3 biggest milestones that led you were you are?",
+      "profileUrl": "https://x.com/manuelbarba_",
+      "chatUrl": "https://x.com/i/chat/912753481387315200-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "builder, backed by God",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@HackedBTC",
+      "displayName": "Hacked.btc",
+      "replyText": "question about crypto integration",
+      "profileUrl": "https://x.com/HackedBTC",
+      "chatUrl": "https://x.com/i/chat/1502415246807519233-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Introducing the first NFT sale tracker bot on ApeChain",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@nayrbgo",
+      "displayName": "Bryan Sanders",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/nayrbgo",
+      "chatUrl": "https://x.com/i/chat/25802452-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "I seek the possible possibles",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@Gautam__Jain",
+      "displayName": "Gautam Jain",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/Gautam__Jain",
+      "chatUrl": "https://x.com/i/chat/3272909696-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Building MVPs fast for founders. Supabase • Lovable • React • Stripe",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@AdamGera",
+      "displayName": "Adam Gera",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/AdamGera",
+      "chatUrl": "https://x.com/i/chat/1414879245948669953-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "tinkering",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@0xR1der",
+      "displayName": "r1der.eth",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/0xR1der",
+      "chatUrl": "https://x.com/i/chat/1520193572384952320-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "web developer • ux/ui designer",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@JeremyJaydan",
+      "displayName": "Jeremy J Parmenter",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/JeremyJaydan",
+      "chatUrl": "https://x.com/i/chat/2936358032-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Developer, designer, call of duty (player), building @intrasti",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@igalklebanov",
+      "displayName": "Igal Klebanov",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/igalklebanov",
+      "chatUrl": "https://x.com/i/chat/180216030-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "@kysely_ co-lead. @zodtypes contributor. @prisma r&d. TypeScript, FaaS & DBs.",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@RealYuvalErez",
+      "displayName": "Yuval Erez",
+      "replyText": "How do you eat you Krembo?",
+      "profileUrl": "https://x.com/RealYuvalErez",
+      "chatUrl": "https://x.com/i/chat/848137175166332928-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@yanivf",
+      "displayName": "Yaniv Feldman",
+      "replyText": "Any chance for an integration with Timeless.ai anytime soon?",
+      "profileUrl": "https://x.com/yanivf",
+      "chatUrl": "https://x.com/i/chat/18587640-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Tech & Crypto | Ex-Geektime Co-Founder | Ex-OneAlpha CEO | Angel Investor",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@meowbooksj",
+      "displayName": "Meowbooks",
+      "replyText": "how many claudes do you use simultaneously",
+      "profileUrl": "https://x.com/meowbooksj",
+      "chatUrl": "https://x.com/i/chat/1508506771173920768-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "1000 more years of meowbooks",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@transitive_bs",
+      "displayName": "Travis Fischer",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/transitive_bs",
+      "chatUrl": "https://x.com/i/chat/327034465-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Building a new type of @HackerResidency. 2 exits previously, @HF0, @Microsoft, @Amazon",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@MihaiVentures",
+      "displayName": "Mihai",
+      "replyText": "Why is it called Base44",
+      "profileUrl": "https://x.com/MihaiVentures",
+      "chatUrl": "https://x.com/i/chat/916460542142877696-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Founding member @polarityco | DMs Open :)| @uwaterloo x @laurier",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@dxnnxil",
+      "displayName": "Denneil",
+      "replyText": "what's your number 1 piece of advice for pre-launch?",
+      "profileUrl": "https://x.com/dxnnxil",
+      "chatUrl": "https://x.com/i/chat/1262776231864545281-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Notes to self... founder @pcurohq",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@CraftedWorkflow",
+      "displayName": "CraftedWorkflows",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/CraftedWorkflow",
+      "chatUrl": "https://x.com/i/chat/1977252903267299328-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Creating Premium Notion Templates for Creators, Entrepreneurs, Students & Productivity Minded People Alike.",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@RaminK1996",
+      "displayName": "Ramin Keshavarzi",
+      "replyText": "question about Base44",
+      "profileUrl": "https://x.com/RaminK1996",
+      "chatUrl": "https://x.com/i/chat/1219945605302308864-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Entrepreneur | Filmmaker | Finance Enthusiast",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@mikiarlo3",
+      "displayName": "Mickey Haslavsky",
+      "replyText": "Integration with enso.bot?",
+      "profileUrl": "https://x.com/mikiarlo3",
+      "chatUrl": "https://x.com/i/chat/317282981-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Founder and CEO at @ensodotbot | Founder at RapidAPI | Angel Investor",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@RoryCrave",
+      "displayName": "Rory J Bernier",
+      "replyText": "Max out referral system using ai",
+      "profileUrl": "https://x.com/RoryCrave",
+      "chatUrl": "https://x.com/i/chat/1630663003346444288-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "SDR @ Marcoby | 2025 Perplexity Fellow | AI & Infosec Enthusiast",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@Assafkin",
+      "displayName": "Assaf Bechar",
+      "replyText": "I can't access ai sites on my work laptop, any advice?",
+      "profileUrl": "https://x.com/Assafkin",
+      "chatUrl": "https://x.com/i/chat/44073672-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "Carbon Based",
+      "status": "ready_to_message"
+    },
+    {
+      "username": "@BenHueng",
+      "displayName": "Ben Hueng",
+      "replyText": "Why haven't you retired?",
+      "profileUrl": "https://x.com/BenHueng",
+      "chatUrl": "https://x.com/i/chat/4610155212-2005516948621393920",
+      "dmStatus": "available",
+      "bio": "",
+      "status": "ready_to_message"
+    }
+  ]
+}

@@ -32,8 +32,7 @@ for ((i=1; i<=$MAX_ITER; i++)); do
   
   # We construct the prompt dynamically to point to the specific TASK_FILE
   # We use --dangerously-skip-permissions for full autonomy (use --permission-mode acceptEdits for safety)
-
-  # Use || true to prevent set -e from exiting on non-zero claude exit code
+  
   result=$(claude --chrome --dangerously-skip-permissions -p "You are Ralph, an autonomous browser automation agent using Claude in Chrome.
 
 CONTEXT FILES:
@@ -67,7 +66,7 @@ CRITICAL RULES:
 - If a task fails, append failure notes to '$PROGRESS_FILE' so you can retry next iteration
 - ONLY output <promise>COMPLETE</promise> when ALL tasks are done
 - If tasks remain, just finish your turn without the promise tag
-" || true)
+")
 
   # 5. Output the result to the terminal so you can see what's happening
   echo "$result"

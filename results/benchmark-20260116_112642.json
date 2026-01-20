@@ -1,0 +1,8 @@
+{
+  "config": {
+    "taskFile": "/Users/paulhayes/repositories/automaton/cic-twitterx/run.new.md",
+    "maxIterations": 5,
+    "warmupRuns": 0,
+    "timestamp": "2026-01-16T00:26:42Z"
+  },
+  "runs": [

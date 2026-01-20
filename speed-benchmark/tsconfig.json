@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "./dist",
+    "rootDir": ".",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "declaration": true
+  },
+  "include": [
+    "shared/**/*",
+    "playwright/**/*",
+    "puppeteer/**/*",
+    "hybrid/**/*",
+    "runner.ts"
+  ],
+  "exclude": ["node_modules", "results", "cypress", "rod"]
+}

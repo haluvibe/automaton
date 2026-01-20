@@ -1,0 +1,80 @@
+# Reddit Community Monitor Workflow
+# Run with: npx claude-flow@alpha automation workflow-run --file workflows/reddit-monitor.yaml --claude
+
+name: reddit-monitor
+description: Monitor Reddit communities for micro SaaS and indie hacking opportunities
+version: "1.0"
+
+# Target communities
+config:
+  subreddits:
+    - indiehackers
+    - SideProject
+    - microsaas
+    - buildinpublic
+    - vibecoding
+    - SaaS
+    - Entrepreneurs
+    - Startups
+  posts_per_subreddit: 25
+  output_dir: collected-data
+
+# Agent assignments
+agents:
+  collector:
+    definition: .claude/agents/reddit-collector.md
+    instances: 1
+  analyst:
+    definition: .claude/agents/reddit-analyst.md
+    instances: 1
+  responder:
+    definition: .claude/agents/reddit-responder.md
+    instances: 1
+
+# Workflow steps
+tasks:
+  - name: collect-posts
+    description: Fetch new posts from all target subreddits
+    agent: collector
+    command: python3 scripts/collect-reddit-posts.py
+    outputs:
+      - collected-data/reddit-*.json
+
+  - name: analyze-posts
+    description: Filter and score posts for relevance
+    agent: analyst
+    depends_on: collect-posts
+    prompt: |
+      Analyze all JSON files in collected-data/reddit-*.json
+      Filter for posts relevant to micro SaaS and indie hacking
+      Save results to collected-data/reddit-*-analyzed.json
+    outputs:
+      - collected-data/reddit-*-analyzed.json
+
+  - name: generate-responses
+    description: Draft responses for high-value posts
+    agent: responder
+    depends_on: analyze-posts
+    prompt: |
+      Read analyzed posts from collected-data/reddit-*-analyzed.json
+      Generate draft responses for posts marked as response_worthy
+      Save to collected-data/reddit-*-responses.json
+    outputs:
+      - collected-data/reddit-*-responses.json
+
+  - name: summary
+    description: Generate summary report
+    agent: analyst
+    depends_on: generate-responses
+    prompt: |
+      Create a summary report at collected-data/summary.md with:
+      - Total posts collected per subreddit
+      - Posts flagged as response-worthy
+      - Top opportunities by relevance score
+      - Draft responses ready for review
+
+# Optional: Schedule for recurring runs
+schedule:
+  enabled: false
+  interval: 60m
+  max_runs_per_day: 24

@@ -1,0 +1,4 @@
+node_modules/
+speed-benchmark/node_modules/
+speed-benchmark/dist/
+speed-benchmark/results/

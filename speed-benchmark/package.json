@@ -1,0 +1,27 @@
+{
+  "name": "speed-benchmark",
+  "version": "1.0.0",
+  "description": "Browser automation speed benchmark: Playwright vs Puppeteer vs Cypress vs Rod",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "benchmark": "tsc && node dist/runner.js",
+    "benchmark:quick": "ITERATIONS=3 WARMUP_RUNS=1 npm run benchmark",
+    "benchmark:headless": "MODES=headless npm run benchmark",
+    "benchmark:headed": "MODES=headed npm run benchmark",
+    "playwright": "tsc && node dist/playwright/benchmark.js",
+    "puppeteer": "tsc && node dist/puppeteer/benchmark.js",
+    "cypress": "cypress run",
+    "cypress:headed": "cypress run --headed",
+    "rod": "cd rod && go run ."
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "puppeteer": "^23.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "cypress": "^13.6.0",
+    "typescript": "^5.3.0"
+  }
+}

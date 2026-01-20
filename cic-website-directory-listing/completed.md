@@ -1,5 +1,10 @@
 # Completed Directory Listings
 
+## Once
+- **Date:** 2026-01-14
+- **URL:** https://once.tools
+- **Status:** Submitted (pending approval - "Thank you for submitting Human in the Loop" confirmation shown)
+
 ## Dang.ai
 - **Date:** 2026-01-13
 - **URL:** https://dang.ai
@@ -124,3 +129,53 @@
 - **Date:** 2026-01-14
 - **URL:** https://futurepedia.io
 - **Status:** Not available - paid service only (Basic Listing $247 sold out, Verified Listing $497)
+
+## ToolScout
+- **Date:** 2026-01-14
+- **URL:** https://toolscout.ai/submit
+- **Status:** Submitted (pending approval - "Recieved" confirmation shown)
+
+## Saas Po
+- **Date:** 2026-01-14
+- **URL:** https://saaspo.com/submit
+- **Status:** Submitted (pending approval - "Your submission has been received" confirmation shown)
+
+## Snapmunk
+- **Date:** 2026-01-14
+- **URL:** https://startups.snapmunk.com
+- **Status:** Not available - signups currently closed ("New Sign Ups Are Currently Unavailable")
+
+## AI Tools Directory
+- **Date:** 2026-01-14
+- **URL:** https://aitoolsdirectory.com/submit-tool
+- **Status:** Submitted (pending approval - "Tool Submission Successful" confirmation shown)
+
+## PitchWall
+- **Date:** 2026-01-14
+- **URL:** https://pitchwall.co
+- **Status:** Submitted (under review - "Product Status: Under Review" confirmation shown)
+
+## Landintools
+- **Date:** 2026-01-14
+- **URL:** https://tools.landin.page
+- **Status:** Submitted (pending approval - "Submission Successful!" confirmation shown, email verification requested)
+
+## MicroLaunch
+- **Date:** 2026-01-14
+- **URL:** https://microlaunch.net
+- **Status:** Not available - paid service only (Pro Launch minimum $39, no free option)
+
+## Gate2AI
+- **Date:** 2026-01-14
+- **URL:** https://gate2ai.com/submit
+- **Status:** Not available - SSL certificate error (Privacy error page)
+
+## Aixploria
+- **Date:** 2026-01-14
+- **URL:** https://aixploria.com/en/submit/
+- **Status:** Not available - paid service only (Fast Listing minimum $79, no free option)
+
+## Insidr AI Tools
+- **Date:** 2026-01-14
+- **URL:** https://insidr.ai/submit-tools
+- **Status:** Submitted (form submitted successfully, awaiting review)

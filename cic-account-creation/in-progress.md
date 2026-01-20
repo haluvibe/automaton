@@ -1,1 +1,3 @@
 # In Progress
+- Read.cv (https://read.cv) - SITE DOWN (deployment paused), skipping
+- CrozDesk (https://crozdesk.com) - Checking login requirements...
